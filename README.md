@@ -1,7 +1,5 @@
 # [Implementation] Leveraging Unlabeled Data Sharing through Kernel Function Approximation in Offline Reinforcement Learning
 
-[https://arxiv.org/abs/2408.12307](https://arxiv.org/abs/2408.12307)
-
 ## Set up Virtual Environment
 
 ```sh
